@@ -52,19 +52,7 @@ Unlike using off-the-shelf models, this project features a **custom-built machin
 
 ---
 
-## 📂 Project Structure
 
-hotel-reservation-system/
-│
-├── data/                 # Raw & processed datasets
-├── notebooks/            # Jupyter notebooks for EDA & training
-├── model/                # Trained model files & scripts
-├── backend/              # API service code
-├── frontend/             # Web UI
-├── deployment/           # GCP configs, Dockerfiles, CI/CD scripts
-├── requirements.txt      # Python dependencies
-├── README.md             # Documentation
-└── main.py               # Entry point for API
 
 ---
 
@@ -119,9 +107,6 @@ Optimized to minimize false positives for cancellation predictions.
 
 ⸻
 
-📷 Screenshots
-
-(Add system UI, GCP console deployment, and API screenshots here)
 
 ⸻
 
@@ -143,8 +128,8 @@ This project is licensed under the MIT License.
 
 Tushar Kale
 💼 Machine Learning Engineer | Full-Stack Developer
-📧 your.email@example.com
-🔗 LinkedIn | Portfolio
+📧 tusharkale816@gmail.com
+🔗 www.linkedin.com/in/tushar-kale5
 
 ---
 
