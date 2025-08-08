@@ -1,7 +1,4 @@
-
-⸻
-
-🏨 Hotel Reservation System – End-to-End ML Project
+## 🏨 Hotel Reservation System – End-to-End ML Project
 
 📌 Overview
 
